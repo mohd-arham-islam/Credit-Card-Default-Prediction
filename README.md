@@ -7,6 +7,8 @@ The objective of this machine learning (ML) project is to develop a model that e
 * A majority of emails in the dataset (80.4%) were ignored, indicating a need for improved engagement strategies.
 * A smaller proportion of emails (16.1%) were read, showing room for enhancing reader engagement.
 * Only a small fraction of emails (3.5%) were acknowledged, suggesting that optimizing email content is crucial for eliciting responses.
+
+  
 ![image](https://github.com/mohd-arham-islam/Email-Campaign-Effectiveness/assets/111959286/035c56eb-9673-4b8a-b348-0186adadd684)
 
 
